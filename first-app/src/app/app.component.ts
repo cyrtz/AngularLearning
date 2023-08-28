@@ -11,7 +11,7 @@ import { HomeComponent } from './home/home.component';
       </header>
     </a>
     <section class="content">
-      <app-home></app-home>
+      <router-outlet></router-outlet>
     </section>
   </main>
 `,

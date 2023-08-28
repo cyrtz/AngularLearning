@@ -12,12 +12,11 @@ import { RouterModule } from '@angular/router';
     AppComponent,
     HomeComponent,
     HousingLocationComponent,
-    
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
-    RouterModule
+    // RouterModule
   ],
   providers: [],
   bootstrap: [AppComponent]
