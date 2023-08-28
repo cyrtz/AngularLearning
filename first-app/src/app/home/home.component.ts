@@ -6,8 +6,6 @@ import { HousingService } from '../housing.service';
 
 @Component({
   selector: 'app-home',
-  // standalone: true,
-  // imports: [CommonModule],
   template: `
     <section>
       <form>
