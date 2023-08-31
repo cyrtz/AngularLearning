@@ -15,7 +15,7 @@
           "name": "A113 Transitional Housing",
           "city": "Santa Monica",
           "state": "CA",
-          "photo": "pexels-daniel-liu-17968541.jpg",
+          "photo": "/assets/pexels-daniel-liu-17968541.jpg",
           "availableUnits": 0,
           "wifi": false,
           "laundry": true
